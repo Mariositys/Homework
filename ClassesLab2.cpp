@@ -45,5 +45,6 @@ int main()
     dog1.run();
     hound1.runUltrafast();
     someAnimal.live();
+    hound1.live();
 
 }
